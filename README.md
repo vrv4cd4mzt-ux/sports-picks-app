@@ -8,11 +8,11 @@ The app is educational. It does not use live odds, does not predict real outcome
 
 Vercel deployment link:
 
-Add your Vercel URL here after deployment.
+https://sports-picks-4ia3rb9wp-jaime-b246.vercel.app/
 
 ## GitHub Repository
 
-Repository link:
+https://github.com/vrv4cd4mzt-ux/sports-picks-app
 
 Add your public GitHub repository URL here after publishing.
 
