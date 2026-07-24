@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "sport": "Soccer",
+    "teamA": "Tigres",
+    "teamB": "Monterrey",
+    "date": "2026-07-20",
+    "teamAWinRate": 62,
+    "teamBWinRate": 48,
+    "teamARecentForm": "W-W-L-W-D",
+    "teamBRecentForm": "L-W-D-L-W",
+    "teamAAvgPoints": 1.8,
+    "teamBAvgPoints": 1.2
+  },
+  {
+    "id": 2,
+    "sport": "Soccer",
+    "teamA": "America",
+    "teamB": "Chivas",
+    "date": "2026-07-22",
+    "teamAWinRate": 58,
+    "teamBWinRate": 54,
+    "teamARecentForm": "W-D-W-L-W",
+    "teamBRecentForm": "W-W-L-D-W",
+    "teamAAvgPoints": 1.6,
+    "teamBAvgPoints": 1.4
+  },
+  {
+    "id": 3,
+    "sport": "Basketball",
+    "teamA": "Lakers",
+    "teamB": "Warriors",
+    "date": "2026-07-24",
+    "teamAWinRate": 51,
+    "teamBWinRate": 64,
+    "teamARecentForm": "L-W-W-L-W",
+    "teamBRecentForm": "W-W-D-W-L",
+    "teamAAvgPoints": 108.4,
+    "teamBAvgPoints": 114.2
+  },
+  {
+    "id": 4,
+    "sport": "Basketball",
+    "teamA": "Celtics",
+    "teamB": "Heat",
+    "date": "2026-07-25",
+    "teamAWinRate": 67,
+    "teamBWinRate": 49,
+    "teamARecentForm": "W-W-W-L-W",
+    "teamBRecentForm": "L-W-L-W-D",
+    "teamAAvgPoints": 116.8,
+    "teamBAvgPoints": 106.1
+  },
+  {
+    "id": 5,
+    "sport": "Baseball",
+    "teamA": "Yankees",
+    "teamB": "Red Sox",
+    "date": "2026-07-26",
+    "teamAWinRate": 55,
+    "teamBWinRate": 46,
+    "teamARecentForm": "W-L-W-W-L",
+    "teamBRecentForm": "L-L-W-D-W",
+    "teamAAvgPoints": 4.9,
+    "teamBAvgPoints": 4.1
+  },
+  {
+    "id": 6,
+    "sport": "Baseball",
+    "teamA": "Dodgers",
+    "teamB": "Giants",
+    "date": "2026-07-27",
+    "teamAWinRate": 61,
+    "teamBWinRate": 52,
+    "teamARecentForm": "W-W-L-W-W",
+    "teamBRecentForm": "W-L-W-L-D",
+    "teamAAvgPoints": 5.2,
+    "teamBAvgPoints": 4.4
+  }
+]
